@@ -3,7 +3,7 @@
         "device_id": "ebc06c02a9b5be7d",
         "username": "nafi213",
         "password": "Dx123",
-        "expirydate": "3-8-2025",
+        "expirydate": "15-10-2025",
         "Allowoffline": true
     },
     {
@@ -11,13 +11,13 @@
         "username": "nafi213",
         "password": "Dx123",
         "expirydate": "15-10-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "ebc06c02a9b5be7d",
         "username": "nafi213",
         "password": "Dx123",
         "expirydate": "15-10-2025",
-        "Allowoffline": false
+        "Allowoffline": False 
     }
 ]
